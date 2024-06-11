@@ -7,6 +7,8 @@ Welcome to your new gem! In this directory, you'll find the files you need to be
 ## Installation
 
 Add to gem File following Line
+
+
 gem "deep_freeze", git: "git@github.com:amira2011/deep_freeze_gem.git"
 
 ## Usage
