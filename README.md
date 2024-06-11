@@ -1,4 +1,4 @@
-# DeepFreeze
+![image](https://github.com/amira2011/deep_freeze_gem/assets/50692165/cb8c207a-f18b-4df2-9141-76c35cdded0b)![image](https://github.com/amira2011/deep_freeze_gem/assets/50692165/cb8c207a-f18b-4df2-9141-76c35cdded0b)# DeepFreeze
 
 TODO: Delete this and the text below, and describe your gem
 
@@ -6,15 +6,8 @@ Welcome to your new gem! In this directory, you'll find the files you need to be
 
 ## Installation
 
-TODO: Replace `UPDATE_WITH_YOUR_GEM_NAME_IMMEDIATELY_AFTER_RELEASE_TO_RUBYGEMS_ORG` with your gem name right after releasing it to RubyGems.org. Please do not do it earlier due to security reasons. Alternatively, replace this section with instructions to install your gem from git if you don't plan to release to RubyGems.org.
-
-Install the gem and add to the application's Gemfile by executing:
-
-    $ bundle add UPDATE_WITH_YOUR_GEM_NAME_IMMEDIATELY_AFTER_RELEASE_TO_RUBYGEMS_ORG
-
-If bundler is not being used to manage dependencies, install the gem by executing:
-
-    $ gem install UPDATE_WITH_YOUR_GEM_NAME_IMMEDIATELY_AFTER_RELEASE_TO_RUBYGEMS_ORG
+Add to gem File following Line
+gem "deep_freeze", git: "git@github.com:amira2011/deep_freeze_gem.git"
 
 ## Usage
 
