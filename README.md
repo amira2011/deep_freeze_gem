@@ -1,4 +1,4 @@
-![image](https://github.com/amira2011/deep_freeze_gem/assets/50692165/cb8c207a-f18b-4df2-9141-76c35cdded0b)![image](https://github.com/amira2011/deep_freeze_gem/assets/50692165/cb8c207a-f18b-4df2-9141-76c35cdded0b)# DeepFreeze
+ 
 
 TODO: Delete this and the text below, and describe your gem
 
